@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{breusch1979simple}
+T.~S. Breusch and A.~R. Pagan.
+\newblock A simple test for heteroscedasticity and random coefficient
+  variation.
+\newblock {\em Econometrica: Journal of the Econometric Society}, pp.
+  1287--1294, 1979.
+
+\bibitem{buja2009statistical}
+A.~Buja, D.~Cook, H.~Hofmann, M.~Lawrence, E.-K. Lee, D.~F. Swayne, and
+  H.~Wickham.
+\newblock Statistical inference for exploratory data analysis and model
+  diagnostics.
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 367(1906):4361--4383, 2009.
+
+\bibitem{cook1982residuals}
+R.~D. Cook and S.~Weisberg.
+\newblock {\em Residuals and influence in regression}.
+\newblock New York: Chapman and Hall, 1982.
+
+\bibitem{draper1998applied}
+N.~R. Draper and H.~Smith.
+\newblock {\em Applied regression analysis}, vol. 326.
+\newblock John Wiley \& Sons, 1998.
+
+\bibitem{kahneman2011thinking}
+D.~Kahneman.
+\newblock {\em Thinking, fast and slow}.
+\newblock macmillan, 2011.
+
+\bibitem{montgomery1982introduction}
+D.~C. Montgomery, E.~A. Peck, and G.~G. Vining.
+\newblock {\em Introduction to linear regression analysis}.
+\newblock John Wiley \& Sons, 1982.
+
+\bibitem{ramsey1969tests}
+J.~B. Ramsey.
+\newblock Tests for specification errors in classical linear least-squares
+  regression analysis.
+\newblock {\em Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 31(2):350--371, 1969.
+
+\bibitem{shapiro1965analysis}
+S.~S. Shapiro and M.~B. Wilk.
+\newblock An analysis of variance test for normality (complete samples).
+\newblock {\em Biometrika}, 52(3/4):591--611, 1965.
+
+\bibitem{vanderplas2021statistical}
+S.~VanderPlas, C.~R{\"o}ttger, D.~Cook, and H.~Hofmann.
+\newblock Statistical significance calculations for scenarios in visual
+  inference.
+\newblock {\em Stat}, 10(1):e337, 2021.
+
+\end{thebibliography}
