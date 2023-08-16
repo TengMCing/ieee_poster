@@ -205,12 +205,15 @@ The protocol consists of \(m\) randomly placed plots, where one plot is the
 data plot, and the remaining \(m - 1\) plots, referred to as the
 \emph{null plots}, are constructed using the same graphical procedure as
 the data plot but the data is replaced with null data that is generated
-in a manner consistent with the null hypothesis, \(H_0\). Computing the 
-\(p\)-value requires that the 
+in a manner consistent with the null hypothesis, \(H_0\). 
+Computing the \(p\)-value requires that the 
 lineup be examined by a number of human judges, 
 each asked to select the most different plot. 
 A small $p$-value would result from a substantial number 
-selecting the data plot.
+selecting the data plot. Under \(H_0\), 
+it is expected that the data plot would have no distinguishable difference 
+from the null plots, and the human judge would only select the data plot 
+by chance.
 \autoref{fig:first-example-lineup} is an example of a lineup
 protocol. If the data plot at position \(2^3 + 1\) is identifiable, then
 it is evidence for the rejection of \(H_0\). Otherwise, 
